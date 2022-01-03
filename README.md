@@ -1,7 +1,7 @@
 # IBM-Watson-knowledge-studio-economic-litterature
 This repository include the ressources used to train a supervised machine learning model in Watson Knowledge Studio.
 Those ressources were created in link with the thesis: Automated extraction of causal diagrams from scientific literature in economics.
-The thesis (...) contains all the explaination in link with the creation of the model.
+The thesis (which will be added soon to the repository) contains all the explaination in link with the creation of the model.
 Watson Knowledge Studio (WKS) makes it possible to upload ressources from one workspace to another (see documentation: https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-exportimport)
 
 Firstly, create a WKS account an open an new workspace. 
