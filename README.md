@@ -14,7 +14,7 @@ The dictionary contain names of economic variables, names of relations and evide
 
 Fouth, upload the annotated documents (corpus)
 Those contain a corpus of 102 annotated abstracts in the domain of "income inequality".
-The references of those abstract can be found in
+The references of those abstract can be found in Sources of annotated abstracts.
 
 This enables to replicate the results of the thesis or to use the annotated document set for other purpose.
 
