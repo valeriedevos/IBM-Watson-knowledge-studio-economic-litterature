@@ -3,11 +3,18 @@ This repository include the ressources used to train a supervised machine learni
 Those ressources were created in link with the thesis: Automated extraction of causal diagrams from scientific literature in economics.
 The thesis (...) contains all the explaination in link with the creation of the model.
 Watson Knowledge Studio (WKS) makes it possible to upload ressources from one workspace to another (see documentation: https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-exportimport)
-Firsty, create a WKS account an open an new workspace. 
-Secondly, upload the type system (...).
+
+Firstly, create a WKS account an open an new workspace. 
+
+Secondly, upload the type system (type-system.json).
 This type system contains entity types: variables, relations, evidence and relation types: causal, correlation and no relation.
-Thirdly, upload the different dictionnaries: 
+
+Thirdly, upload the different dictionnaries (dictionary1, dictionary2, dictionary3) 
 The dictionary contain names of economic variables, names of relations and evidence words.
-Fouth, upload the annotated documents:...
+
+Fouth, upload the annotated documents (corpus)
 Those contain a corpus of 102 annotated abstracts in the domain of "income inequality".
+The references of those abstract can be found in
+
 This enables to replicate the results of the thesis or to use the annotated document set for other purpose.
+
