@@ -17,4 +17,4 @@ Those contain a corpus of 102 annotated abstracts in the domain of "income inequ
 The references of those abstract can be found in Sources of annotated abstracts.
 
 This enables to replicate the results of the thesis or to use the annotated document set for other purpose.
-Do not hesitate to send me an email: valeriedevos97@gmail.com if you have any question
+Do not hesitate to send me an email: valeriedevos97@gmail.com if you have any question.
