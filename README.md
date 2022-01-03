@@ -4,7 +4,7 @@ Those ressources were created in link with the thesis: Automated extraction of c
 The thesis (which will be added soon to the repository) contains all the explaination in link with the creation of the model.
 Watson Knowledge Studio (WKS) makes it possible to upload ressources from one workspace to another (see documentation: https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-exportimport)
 
-Firstly, create a WKS account an open an new workspace. 
+Firstly, create a WKS account and open an new workspace. 
 
 Secondly, upload the type system (type-system.json).
 This type system contains entity types: variables, relations, evidence and relation types: causal, correlation and no relation.
